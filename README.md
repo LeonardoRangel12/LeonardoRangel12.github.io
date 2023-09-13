@@ -8,10 +8,11 @@
 
 <div align = "center">
   
-#  <b>MPU6050 Accelerometer + Gyroscope</b>
+#  MPU6050 Accelerometer + Gyroscope
+
+</div>
 
 ## Imagenes
-</div>
 <img style="max-width:30%" src = "https://m.media-amazon.com/images/I/51eWrHRzWJL._AC_UF894,1000_QL80_.jpg">
 <img style="max-width:30%" src = "https://j5d2v7d7.stackpathcdn.com/wp-content/uploads/2019/04/MPU-6050-pinout.gif">
 
