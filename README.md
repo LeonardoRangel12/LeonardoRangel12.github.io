@@ -1,4 +1,4 @@
-<img src="https://www.tijuana.tecnm.mx/wp-content/uploads/2021/05/SCG-LOGOTIPO-2021-scaled.jpg">
+<img src="https://www.tijuana.tecnm.mx/wp-content/uploads/2022/03/TecNM-ITT-sgc-2018-color-scaled-e1646127126124-1568x479.jpg">
 
 # Datos
 - Instituto Tecnológico de Tijuana
