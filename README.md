@@ -23,7 +23,9 @@
 - Voltaje de alimentación: 2.37 a 3.46V
 - Voltaje lógico: 1.8V±5% o VDD
 - 10000g tolerancia de aceleración máxima
+
 ## Código de ejemplo
+
 ```python
 #Shows Pi is on by turning on LED when plugged in
 LED = machine.Pin("LED", machine.Pin.OUT)
