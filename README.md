@@ -1,4 +1,4 @@
-<img src="https://www.tijuana.tecnm.mx/wp-content/uploads/2022/03/TecNM-ITT-sgc-2018-color-scaled-e1646127126124-1568x479.jpg">
+<img src="/logo tec.jpg">
 
 # Datos
 - Instituto Tecnológico de Tijuana
@@ -13,8 +13,8 @@
 </div>
 
 ## Imagenes
-<img style="max-width:30%" src = "https://m.media-amazon.com/images/I/51eWrHRzWJL._AC_UF894,1000_QL80_.jpg">
-<img style="max-width:30%" src = "https://j5d2v7d7.stackpathcdn.com/wp-content/uploads/2019/04/MPU-6050-pinout.gif">
+<img style="max-width:30%" src = "img 1.jpg">
+<img style="max-width:30%" src = "img 2.gif">
 
 ## Especificaciones
 - Salida digital de 6 ejes.
