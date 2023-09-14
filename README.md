@@ -6,11 +6,7 @@
 - Prof. René Solis Reyes
 - Leonardo Rangel Vizcarra - 20211830
 
-<div align = "center">
-  
 #  MPU6050 Accelerometer + Gyroscope
-
-</div>
 
 ## Imagenes
 <img style="max-width:30%" src = "img 1.jpg">
